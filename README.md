@@ -1,1 +1,1 @@
-# ci-php73-node10
+# CI pipeline with php7.3 and node10
